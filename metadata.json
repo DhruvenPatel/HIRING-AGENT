@@ -1,0 +1,7 @@
+{
+  "name": "Enterprise AI Interview Copilot",
+  "description": "A sophisticated multi-agent system powered by Gemini to conduct autonomous technical interviews, analyze candidates, and generate detailed hiring reports.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
